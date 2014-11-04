@@ -1,0 +1,24 @@
+{
+  "name": "lilly-config-editorconfig",
+  "version": "0.0.0",
+  "description": "Sane defaults for '.editorconfig'",
+  "main": "root/.editorconfig",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/borestad/lilly-config-editorconfig.git"
+  },
+  "keywords": [
+    "editorconfig",
+    "lilly",
+    "best bractices"
+  ],
+  "author": "Johan Borestad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borestad/lilly-config-editorconfig/issues"
+  },
+  "homepage": "https://github.com/borestad/lilly-config-editorconfig"
+}
