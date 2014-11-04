@@ -3,7 +3,7 @@ lilly-atom-editorconfig
 
 #### Sane defaults for '.editorconfig'
 
-Use standalone or within with [https://github.com/borestad/lilly] - *A JavaScript best practices tool*
+Use standalone or within with [Lilly](https://github.com/borestad/lilly) - *A JavaScript best practices tool*
 
 # What is an atom?
 A basic building block - *one single piece* of functionality.
