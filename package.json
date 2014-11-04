@@ -1,5 +1,5 @@
 {
-  "name": "lilly-config-editorconfig",
+  "name": "lilly-atom-editorconfig",
   "version": "0.0.0",
   "description": "Sane defaults for '.editorconfig'",
   "main": "root/.editorconfig",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/borestad/lilly-config-editorconfig.git"
+    "url": "git://github.com/borestad/lilly-atom-editorconfig.git"
   },
   "keywords": [
     "editorconfig",
@@ -18,7 +18,7 @@
   "author": "Johan Borestad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/borestad/lilly-config-editorconfig/issues"
+    "url": "https://github.com/borestad/lilly-atom-editorconfig/issues"
   },
-  "homepage": "https://github.com/borestad/lilly-config-editorconfig"
+  "homepage": "https://github.com/borestad/lilly-atom-editorconfig"
 }
