@@ -2,7 +2,7 @@
   "name": "lilly-atom-editorconfig",
   "version": "0.0.0",
   "description": "Sane defaults for '.editorconfig'",
-  "main": "root/.editorconfig",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
