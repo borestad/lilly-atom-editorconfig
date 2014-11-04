@@ -5,7 +5,7 @@ lilly-atom-editorconfig
 
 Use standalone or within with [https://github.com/borestad/lilly] - *A JavaScript best practices tool*
 
-#### What is an atom?
+# What is an atom?
 A basic building block - *one single piece* of functionality.
 Inspired from: http://bradfrost.com/blog/post/atomic-web-design/#atoms
 
